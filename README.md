@@ -3,6 +3,9 @@
 ## Overview
 The **United Helpers Disaster Response Database** is designed to assist the nonprofit organization, United Helpers, in efficiently managing volunteers and tasks related to disaster relief efforts. This database tracks essential information about volunteers, tasks, packing lists, packages, and items, ensuring a streamlined approach to disaster management.
 
+## Entity-Relationship Diagram (ERD)
+![ERD Diagram](https://github.com/yourusername/yourrepository/blob/main/yourimage.png?raw=true)
+
 ## Features
 - **Volunteer Management**: 
   - Track personal details of volunteers (name, address, phone number).
